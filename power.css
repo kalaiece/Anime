@@ -1,0 +1,86 @@
+body{
+    background-image: url("wp2190995.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1 :hover{
+    background-color: aquamarine;
+}
+.cn{
+    position: fixed;
+    z-index: 1;
+    overflow-x: hidden;
+}
+h1{
+    text-align: center;
+    font-size: 35px;
+    color: darkred;
+    background-color: rgb(172, 212, 77);
+    height: 60px;
+    padding-top: 15px;
+    border-radius: 20px;
+    box-shadow: 8px 10px 12px 0px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 500;
+    text-shadow: 3px 3px rgb(219, 255, 219);
+}
+.kal{
+    padding-left: 440px;
+    padding-right: 430px;
+}
+img{
+    border: 4px solid rgb(247, 222, 176);
+    height: 130px;
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 50px;   
+    border-radius: 20px; 
+}
+
+
+#ka{
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 110px;
+    padding-top: 12px;
+    padding-left: 35px;
+    color: rgb(165, 52, 218);
+    background-color: aqua;
+    height: 50px;
+    width: 180px;
+    border-radius: 20px;
+    box-shadow: 8px 12px 10px 0px;
+}
+.an{
+    padding-left: 70px;
+    
+}
+.bn{
+    padding-left: 100px;
+    padding-right: 890px;
+}
+.dn{
+    padding-right: 140px;
+}
+.kalai{
+    padding-top: 95px;
+    padding-right: 80px;
+}
+#ha{
+    padding-right: 80px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 110px;
+    padding-top: 12px;
+    padding-left: 35px;
+    color: rgb(165, 52, 218);
+    background-color: aqua;
+    height: 50px;
+    width: 90px;
+    border-radius: 20px;
+    box-shadow: 8px 12px 10px 0px;
+}
+
+
+
